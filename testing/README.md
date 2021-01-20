@@ -5,7 +5,7 @@ For this purpose we use automated tests. The tests are just code that is also wr
 ### Advantages of testing - and that means automated testing here, not 'trying it out and see if it works'
 - Can be repeated with no additional effort and executed quickly
 - We can add / change code without fearing to break something (we would see that immediately)
-- Saves  time in the long run 
+- Saves time in the long run 
 - It forces us to structure our code -> cleaner, more readable code
 - We can integrate testing into other automated workflows
 - Often better than documentation - tells you exactly whats happening in the code
@@ -14,7 +14,7 @@ For this purpose we use automated tests. The tests are just code that is also wr
 (only the first one is interesting to us now - but it is good to have some context and see the bigger
 picture)
 
-* Unit Tests - fully isolated (e.g. functions) - you want to have a loooot of them 
+* Unit Tests - fully isolated (e.g. functions) - you want to have a lot of them 
 
 * Integration Tests - with dependencies (e.g. function calling anoter function) - a good couple of them 
 
